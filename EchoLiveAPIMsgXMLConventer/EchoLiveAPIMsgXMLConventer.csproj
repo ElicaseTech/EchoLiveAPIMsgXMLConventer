@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Title>Echo Live API转换器</Title>
+    <Version>1.0.3</Version>
+    <Authors>AuraElicase</Authors>
+    <Company>ElicaseTech</Company>
+  </PropertyGroup>
+
+</Project>
